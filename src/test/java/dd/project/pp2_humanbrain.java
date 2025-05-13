@@ -122,7 +122,7 @@ public class pp2_humanbrain {
 
 	        Session session = Session.getInstance(properties, new javax.mail.Authenticator() {
 	            protected PasswordAuthentication getPasswordAuthentication() {
-	                return new PasswordAuthentication("automationsoftware25@gmail.com", wjzcgaramsqvagxu"); // Fix: Use app password
+	                return new PasswordAuthentication("automationsoftware25@gmail.com", "wjzcgaramsqvagxu"); // Fix: Use app password
 	            }
 	        });
 
